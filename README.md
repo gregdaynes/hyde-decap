@@ -15,7 +15,7 @@ Installation
 
 ```yaml
 plugins:
-  - hyde_decap
+  - hyde-decap
   ...
 ```
 
